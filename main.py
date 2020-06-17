@@ -14,6 +14,7 @@ from kivy.uix.screenmanager import ScreenManager, Screen
 
 # Carrega nosso arquivo de configurações
 Config.read("config.ini")
+Config.set('graphics', 'window_state', 'maximized')
 
 # Cria nosso Gerenciador de Telas
 screen_manager = ScreenManager()
