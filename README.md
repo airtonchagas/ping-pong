@@ -39,18 +39,18 @@ Aqui alguns screenshots do jogo rodando!
 
 Tela com menu inicial do jogo com opções de iniciar uma nova partida ou fechar o aplicativo.
 
-![Tela inicial do Ping Pong]()
+![Tela Inicial do Jogo](/screenshots/menu.png?raw=true "Menu Inicial do Jogo")
 
 ### Tela do Jogo
 
 Tela do jogo, com o Campo, Raquetes e Bola! Para jogar basta movimentar as raquetes de cada lado! 
 
-![Tela do jogo]()
+![Tela do Jogo](/screenshots/jogo.png?raw=true "Tela do Jogo")
 
 ### Tela do Vencedor
 
 Essa é a Tela que irá aparecer para aquele que ganhar a partida!
 
-![Tela do vencedor]()
+![Tela do Vencedor](/screenshots/vencedor.png?raw=true "Tela do Vencedor")
 
 Espero que divirtam-se!
