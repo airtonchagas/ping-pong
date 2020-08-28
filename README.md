@@ -1,7 +1,7 @@
 
 # Ping Pong
 
-Remake do famoso jogo Ping Pong, feito em Python e Kivy! 
+Remake do famoso jogo Ping Pong, desenvolvido em Python e Kivy! 
 Nesse projeto, foi abordado o gerenciamento remoto de objetos, controle de telas, inclusão de menus, uso de áudio, e muito mais!
 
 ## Instalação
